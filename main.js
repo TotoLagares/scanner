@@ -1,4 +1,4 @@
-import Tesseract from 'tesseract.js';
+
 
 const inputFile = document.getElementById('inputFile');
 const scanButton = document.getElementById('scanButton');
