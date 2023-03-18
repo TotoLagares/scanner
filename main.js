@@ -19,6 +19,7 @@ scanButton.addEventListener('click', async () => {
       const textElement = document.createElement('div');
       textElement.innerText = text;
       document.body.appendChild(textElement);
+      console.log(text);
     };
   };
 });
